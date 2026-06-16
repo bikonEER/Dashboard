@@ -1,0 +1,10 @@
+{
+  "name": "yol1-business-virtual-accounts-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "node scripts/build-check.mjs"
+  }
+}
